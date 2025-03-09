@@ -1,1 +1,2 @@
 # Iris-Dataset-Clustering_Algorithm
+This assignment explores the application of unsupervised learning techniques, specifically K-Means and Hierarchical Clustering, on the Iris dataset. The Iris dataset contains measurements of 150 Iris flowers across 4 features: sepal length, sepal width, petal length, and petal width. The goal of this assignment is to perform clustering on the dataset to group the flowers based on these features, without using any prior labels (i.e., the species).
